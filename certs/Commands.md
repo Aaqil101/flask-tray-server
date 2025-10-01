@@ -1,10 +1,7 @@
 ---
-createdDate: "[[2025-09-30]]"
-createdTime: 09:09:90
+Created Date: 2025-09-30
+Created Time: 09:09:90
 ---
-
-> [!warning]-
-> This commands are for [[; Flask Tray Server|Flask Tray Server]].
 
 ## 1) Create your own CA (Certificate Authority)
 
