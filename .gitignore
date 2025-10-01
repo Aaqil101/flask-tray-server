@@ -207,9 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 # mTLS
-/*.pem
-/*.key
-/*.cnf
-/*.csr
-/*.srl
-/*.crt
+**/*.pem
+**/*.key
+**/*.cnf
+**/*.csr
+**/*.srl
+**/*.crt
